@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/folio.com/static/css/main.59e07aa8.css",
-    "main.js": "/folio.com/static/js/main.d2a23f4a.js",
+    "main.js": "/folio.com/static/js/main.014dd7ca.js",
     "static/media/gallery.png": "/folio.com/static/media/gallery.a019b90f046d6d12218f.png",
     "static/media/fade_slide.png": "/folio.com/static/media/fade_slide.abdc7f2fda1bb820ba8c.png",
     "static/media/witcher.png": "/folio.com/static/media/witcher.1ac1ae8e54da68c0dd7c.png",
@@ -21,10 +21,10 @@
     "static/media/circle_01.png": "/folio.com/static/media/circle_01.2b2e0c3439d905607f42.png",
     "index.html": "/folio.com/index.html",
     "main.59e07aa8.css.map": "/folio.com/static/css/main.59e07aa8.css.map",
-    "main.d2a23f4a.js.map": "/folio.com/static/js/main.d2a23f4a.js.map"
+    "main.014dd7ca.js.map": "/folio.com/static/js/main.014dd7ca.js.map"
   },
   "entrypoints": [
     "static/css/main.59e07aa8.css",
-    "static/js/main.d2a23f4a.js"
+    "static/js/main.014dd7ca.js"
   ]
 }
