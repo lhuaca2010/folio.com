@@ -11,10 +11,11 @@ function Projects() {
     <>
       <div className="projects">
         <Separator />
-        <label className="section-title">Proyectos & Certificado</label>
+        <label className="section-title">Proyectos</label>
+        <br />
         <p>
           Todos los días me dediqué a construir algo a partir de lo que aprendí, a continuación hay{' '}
-          <br /> una lista de sitios web que hice últimamente, aplicando las buenas prácticas de
+          <br /> una lista de sitios web que hice últimamente, aplicando buenas prácticas de
           desarrollo de software.
         </p>
 

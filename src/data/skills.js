@@ -1,27 +1,29 @@
 export const SkillsData = [
   {
-    type: "Data Management & BI",
+    type: "Technologies",
     list: [
+
       {
-        name: "SAP (ERP)",
-        icon: <img src="https://img.icons8.com/?size=100&id=38192&format=png&color=000000" />,
-      },
-      {
-        name: "SQL",
-        icon: <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" />,
+        name: "Java",
+        icon: <img src="https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000" />,
       },
       {
         name: "Python",
         icon: <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" />,
       },
       {
-        name: "Snowflake",
-        icon: <img src="https://img.icons8.com/?size=100&id=sFhVsOp882LS&format=png&color=000000" />,
+        name: "SQL",
+        icon: <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" />,
+      },
+      {
+        name: "SAP (ERP)",
+        icon: <img src="https://img.icons8.com/?size=100&id=38192&format=png&color=000000" />,
       },
       {
         name: "Git",
         icon: <i class="devicon-git-plain colored"></i>,
       },
+
 
     ],
   },
