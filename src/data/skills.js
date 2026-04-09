@@ -16,6 +16,10 @@ export const SkillsData = [
         icon: <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" />,
       },
       {
+        name: "Power BI",
+        icon: <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" />,
+      },
+      {
         name: "SAP (ERP)",
         icon: <img src="https://img.icons8.com/?size=100&id=38192&format=png&color=000000" />,
       },

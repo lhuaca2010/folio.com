@@ -24,7 +24,7 @@ export const ProjectData = [
     about:
       `Aplicación desarrollada en React enfocada en la visualización de datos \n de ventas, pensada como base para integraciones con herramientas de \n BI. 
     `,
-    tags: ["React", "Data Visualization"],
+    tags: ["React", "Data Visualization", "Power BI"],
     demo: "https://bazar-shop.up.railway.app/",
     github: "https://github.com/lhuaca2010/bazar-shop-app",
     image:
